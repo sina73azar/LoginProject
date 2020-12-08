@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LoginProject</string>
+    <string name="str_btn_login">login</string>
+    <string name="str_tv_1" translatable="true">don\'t have an account?</string>
+    <string name="str_tv_create_account">Create One</string>
+    <string name="str_email">Email</string>
+    <string name="thankforhelping_loveyou_com">ThankForHelping@loveYou.com</string>
+    <string name="number_password">Number Password</string>
+    <string name="brand_of_company">Brand Of Company</string>
+</resources>
