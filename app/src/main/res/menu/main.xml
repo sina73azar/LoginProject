@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".CreateAccountActivity"
+    android:layoutDirection="ltr"
+    android:layout_gravity="end"
+    >
+
+    <item
+        android:id="@+id/back_for_menu"
+        android:orderInCategory="300"
+        android:title="@string/back_to_login_activity"
+        android:icon="@drawable/ic_back_for_menu"
+        app:showAsAction="ifRoom"
+        android:layoutDirection="rtl"
+        />
+    <item
+        android:id="@+id/back2_for_menu"
+        android:orderInCategory="300"
+        android:title="@string/back_to_login_activity"
+        android:icon="@drawable/ic_back_for_menu"
+        app:showAsAction="ifRoom"
+        android:layoutDirection="rtl"
+        />
+
+</menu>

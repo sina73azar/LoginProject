@@ -36,7 +36,7 @@ class LoginActivity : AppCompatActivity() {
             Log.e(TAG, "onCreate: after both was empty for test")
         }
         tvCreateAccount.setOnClickListener {
-            val intent = Intent(this, CreateAcountActivity::class.java)
+            val intent = Intent(this, CreateAccountActivity::class.java)
             startActivity(intent)
         }
     }

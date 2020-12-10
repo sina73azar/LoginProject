@@ -7,4 +7,6 @@
     <string name="thankforhelping_loveyou_com">ThankForHelping@loveYou.com</string>
     <string name="number_password">Number Password</string>
     <string name="brand_of_company">Brand Of Company</string>
+    <string name="text_tv_show_create_new_account">Create New Account</string>
+    <string name="back_to_login_activity">back to login activity</string>
 </resources>

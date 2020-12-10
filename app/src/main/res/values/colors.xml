@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="color_bg_btn_login">#64FFDA</color>
     <color name="color_text_textviews">#999897</color>
+    <color name="color_grey_for_text">#515050</color>
+    <color name="color_bg_toolbar">@color/purple_500</color>
 </resources>

@@ -13,4 +13,12 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+        <style name="HeaderBar">
+            <item name="android:background">@color/color_bg_toolbar</item>
+            <item name="android:layoutDirection">ltr</item>
+            <item name="android:direction">left_to_right</item>
+        </style>
+
+
 </resources>
